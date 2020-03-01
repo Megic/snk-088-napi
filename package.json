@@ -1,6 +1,6 @@
 {
   "name": "snk088-napi",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "Driver for snk-088",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,8 @@
   "dependencies": {
     "callsite": "^1.0.0",
     "ffi-napi": "^2.4.6",
-    "iconv-lite": "^0.4.23"
+    "iconv-lite": "^0.4.23",
+    "ref-napi": "^1.4.3"
   },
   "devDependencies": {
     "eslint": "^4.19.1",
